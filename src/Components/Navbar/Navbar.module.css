@@ -1,0 +1,11 @@
+.navbar{
+    grid-area: n;
+    background-color: azure;
+    padding: 20px;
+
+}
+
+.item a{
+    color: lightseagreen;
+    text-decoration: none
+}

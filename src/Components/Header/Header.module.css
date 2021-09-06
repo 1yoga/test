@@ -1,0 +1,7 @@
+.header{
+    width: 100%;
+    background-color: silver;
+    grid-area: h;
+    text-align: center;
+    font-size: 60px;
+}
